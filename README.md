@@ -14,7 +14,7 @@
 </p>
 <br>
 
-### I am a Fullstack Freelancer 
+## I am a Fullstack Freelancer 
 - 🔭 I’m currently working on my homelab :grin:
 - 🌱 I’m currently learning more about Rust and embedded development
 - 👯 I love to work in a group! :rocket:
@@ -56,4 +56,4 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ekam-g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ekam's Github Stats" width="65%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ekam-g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ekam's Github Stats" width="100%">
