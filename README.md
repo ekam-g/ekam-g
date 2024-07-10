@@ -56,4 +56,4 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ekam-g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ekam's Github Stats" width="100%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ekam-g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ekam's Github Stats" width="80%">
