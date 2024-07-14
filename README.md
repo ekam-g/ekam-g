@@ -15,7 +15,7 @@
 <br>
 
 ## I am a Fullstack Freelancer 
-- 🔭 I’m currently working on my homelab :grin:
+- 🔭 I’m currently working on my project contain :grin:
 - 🌱 I’m currently learning more about Rust and embedded development
 - 👯 I love to work in a group! :rocket:
 - 🥅 2024 Goals: Contribute to Open Source projects (Libreoffice)
