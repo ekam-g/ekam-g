@@ -14,7 +14,7 @@
 </p>
 <br>
 
-## I am a Fullstack Freelancer 
+## I am a Fullstack Dev 
 - 🔭 I’m currently working on my project contain :grin:
 - 🌱 I’m currently learning more about Rust and embedded development
 - 👯 I love to work in a group! :rocket:
